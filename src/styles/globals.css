@@ -5,3 +5,7 @@
 body {
     @apply bg-zinc-800 text-white/80;
 }
+
+.page-content {
+    @apply relative m-auto h-full min-h-screen w-full max-w-7xl px-3;
+}

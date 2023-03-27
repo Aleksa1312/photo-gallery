@@ -1,7 +1,7 @@
 import { FC } from "react";
 
 const HomePage: FC = () => {
-    return <div className="underline text-7xl">Hello World</div>;
+    return <div className="h-screen w-full"></div>;
 };
 
 export default HomePage;
